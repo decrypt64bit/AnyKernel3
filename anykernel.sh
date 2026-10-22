@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Khaenriah For RMX1971
+kernel.string=Mystralyis-5pro
 do.devicecheck=1
 do.modules=0
 do.systemless=1
